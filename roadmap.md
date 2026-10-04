@@ -1,12 +1,13 @@
 # Toko Digital — Roadmap
 
-- [ ] Pick visual direction from the 3 generated prototypes (waiting on user choice)
-- [ ] Define design system tokens in src/styles.css (dark-first, oklch, single accent, display + body fonts)
-- [ ] Build homepage: asymmetric hero, product explanation, CTA
-- [ ] Build catalog page: >=3 digital products (e-book, course, template) with price + dummy Beli button
-- [ ] Build testimonials section
-- [ ] Build contact form page
-- [ ] Build basic help/FAQ page
-- [ ] Shared chrome: header nav + footer + dark/light toggle (dark default)
-- [ ] Generate cover images for products / hero preview
-- [ ] Responsive check on mobile + desktop; verify build log clean
+- [x] Pick visual direction from the 3 generated prototypes — user chose "Diagonal kinetic dark"
+- [x] Define design system tokens in src/styles.css (dark-first, hairline surfaces, Anton/Inter/JetBrains Mono)
+- [x] Build homepage: asymmetric hero, product explanation, CTA
+- [x] Build catalog page: 6 digital products (e-book, course, template) with price + dummy Beli button + filter
+- [x] Build testimonials section
+- [x] Build contact form page
+- [x] Build basic help/FAQ page
+- [x] Shared chrome: header nav + footer + dark/light toggle (dark default)
+- [x] Generate cover images for products / hero preview
+- [x] Responsive check on mobile + desktop; verify build log clean
+- [x] Contrast pass: body text + faint labels readable in both themes
