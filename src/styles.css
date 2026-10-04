@@ -80,7 +80,7 @@
   --surface: #ffffff;
   --elevated: #e9e4d9;
   --hair: rgba(11, 13, 17, 0.12);
-  --faint: rgba(11, 13, 17, 0.48);
+  --faint: rgba(11, 13, 17, 0.58);
   --accent: #e8401f;
   --accent-ink: #f4f1ea;
   --accent-glow: #ff8a4d;
@@ -94,8 +94,8 @@
   --primary-foreground: #f4f1ea;
   --secondary: #e9e4d9;
   --secondary-foreground: #0b0d11;
-  --muted: rgba(11, 13, 17, 0.05);
-  --muted-foreground: rgba(11, 13, 17, 0.62);
+  --muted: rgba(11, 13, 17, 0.66);
+  --muted-foreground: rgba(11, 13, 17, 0.66);
   --accent-foreground: #f4f1ea;
   --destructive: #b3270f;
   --destructive-foreground: #f4f1ea;
@@ -124,7 +124,7 @@
   --surface: #101419;
   --elevated: #161c24;
   --hair: rgba(244, 241, 234, 0.08);
-  --faint: rgba(244, 241, 234, 0.28);
+  --faint: rgba(244, 241, 234, 0.45);
   --accent: #ff4d2e;
   --accent-ink: #0b0d11;
   --accent-glow: #ff8a4d;
@@ -138,8 +138,8 @@
   --primary-foreground: #0b0d11;
   --secondary: #161c24;
   --secondary-foreground: #f4f1ea;
-  --muted: rgba(244, 241, 234, 0.05);
-  --muted-foreground: rgba(244, 241, 234, 0.5);
+  --muted: rgba(244, 241, 234, 0.62);
+  --muted-foreground: rgba(244, 241, 234, 0.62);
   --accent-foreground: #0b0d11;
   --destructive: #ff4d2e;
   --destructive-foreground: #0b0d11;

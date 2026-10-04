@@ -63,7 +63,7 @@ export function SiteHeader() {
               className={cn(
                 "rounded-full px-3 py-2 text-sm transition-colors duration-150",
                 match({ to: item.to })
-                  ? "bg-muted text-foreground"
+                  ? "bg-elevated text-foreground"
                   : "text-faint hover:text-foreground",
               )}
             >
