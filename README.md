@@ -1,5 +1,7 @@
 # Digital Haven
 
+
+nih promptnya di loveable :
 Buatkan website toko online produk digital (seperti e-book, course, dan template) dengan desain modern dan minimalis
 
 Fitur Utama:
