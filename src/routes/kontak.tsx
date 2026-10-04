@@ -56,7 +56,7 @@ function KontakPage() {
           ))}
         </dl>
         <p className="mt-8 text-sm text-muted text-pretty">
-          Butuh jawaban cepat? Many a pertanyaan sudah terjawab di pusat bantuan.
+          Butuh jawaban cepat? Banyak pertanyaan sudah terjawab di pusat bantuan.
         </p>
         <Link
           to="/bantuan"

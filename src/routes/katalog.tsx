@@ -4,7 +4,8 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { ProductCard } from "@/components/product-card";
 import { Reveal } from "@/components/reveal";
 import { SectionHeading } from "@/components/section-heading";
-import { brand, productKinds, products, type ProductKind } from "@/lib/products";
+import { brand } from "@/lib/content";
+import { productKinds, products, type ProductKind } from "@/lib/products";
 
 export const Route = createFileRoute("/katalog")({
   head: () => ({

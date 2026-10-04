@@ -37,7 +37,7 @@ function BantuanPage() {
   return (
     <section className="grid gap-14 py-20 md:grid-cols-2">
       <div>
-        <SectionHeading title="Bantuan" className="md:block" note="(c) 05 pertanyaan" />
+        <SectionHeading title="Bantuan" note="(c) 05 pertanyaan" />
         <p className="mt-4 max-w-[40ch] text-sm text-muted text-pretty">
           Semua produk digital dikirim otomatis. Kalau pertanyaan Anda belum terjawab di sini,
           tulis ke kami dan tim membalas dalam 1x24 jam.
